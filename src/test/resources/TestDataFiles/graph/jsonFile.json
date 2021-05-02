@@ -1,0 +1,14 @@
+{
+   "login":{
+      "phone":"+201008065655",
+      "password":"mohamedhammad"
+   },
+   "register":{
+      "firstName":"mohamed",
+      "lastName":"hammad",
+      "email":"hammad",
+      "role":"DOCTOR",
+      "phone":"+201",
+      "password":"12345678"
+   }
+}
